@@ -1,0 +1,12 @@
+{
+  "name": "rsmqConsumer",
+  "version": "0.0.1",
+  "description": "A helper to consume from Rsmq",
+  "main": "index.js",
+  "repository": "git@github.com:vitorfox/rsmqConsumer.git",
+  "author": "Vitor Teixeira <vitorfox@gmail.comm>",
+  "license": "MIT",
+  "dependencies": {
+    "rsmq": "^0.8.2"
+  }
+}
